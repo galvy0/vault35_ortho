@@ -1,0 +1,18 @@
+[submodule "libs/MX_Alps_Hybrid"]
+	path = libs/MX_Alps_Hybrid
+	url = https://github.com/ai03-2725/MX_Alps_Hybrid.git
+[submodule "libs/Type-C.pretty"]
+	path = libs/Type-C.pretty
+	url = https://github.com/ai03-2725/Type-C.pretty.git
+[submodule "libs/kbd"]
+	path = libs/kbd
+	url = https://github.com/foostan/kbd.git
+[submodule "libs/kicad-round-tracks"]
+	path = libs/kicad-round-tracks
+	url = https://github.com/mitxela/kicad-round-tracks.git
+[submodule "libs/kicad_lib_tmk"]
+	path = libs/kicad_lib_tmk
+	url = https://github.com/tmk/kicad_lib_tmk.git
+[submodule "libs/kicad_scripts"]
+	path = libs/kicad_scripts
+	url = https://github.com/NilujePerchut/kicad_scripts.git
