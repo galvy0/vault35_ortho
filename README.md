@@ -14,7 +14,7 @@ PCB has _not_ been tested yet. The first (and hopefully last) prototype PCB has 
 ![Layouts](https://github.com/galvy0/vault35_ortho/blob/main/images/vault35_ortho_layout.png)
 
 ## Plate
-Many plate configurations are possible depending on the use of the middle column.
+Many plate configurations are possible depending on the use of the middle column.  
 Various plate options can be found in plates folder.  
 As an example: A simple switch/encoder middle column plate:
 ![Plate](https://github.com/galvy0/vault35_ortho/blob/main/images/vault35_ortho_plate_1u.png)
