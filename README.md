@@ -20,4 +20,4 @@ As an example: A simple switch/encoder middle column plate:
 ![Plate](https://github.com/galvy0/vault35_ortho/blob/main/images/vault35_ortho_plate_1u.png)
 
 ## Firmware
-WIP
+(WIP) https://github.com/galvy0/qmk_firmware/tree/galvy/keyboards/vault35_ortho
