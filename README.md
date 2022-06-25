@@ -3,7 +3,9 @@ Ortho version of Cain's Vault35 keyboard.
 Check out the original product and other awesome projects of Cain at [https://mechvault.net/](https://mechvault.net/).  
 
 ### Current Progress
-PCB has _not_ been tested yet. The first (and hopefully last) prototype PCB has been ordered on 220612.
+PCB has been tested and is good to go.  
+Now working on plates.  
+![Preview](https://github.com/galvy0/vault35_ortho/blob/main/images/vault35_ortho_preview.jpg)
 
 ## PCB
 ### PCB Renders
