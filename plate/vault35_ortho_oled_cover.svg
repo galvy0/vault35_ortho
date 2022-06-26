@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 141.7 170.1" style="enable-background:new 0 0 141.7 170.1;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-width:0.25;stroke-miterlimit:10;}
+</style>
+<g id="oled_cover">
+	<path class="st0" d="M93.6,133.3L93.6,133.3c-1.5,0-2.8-1.2-2.8-2.8s1.2-2.8,2.8-2.8l0,0l0,0H96V42.3h-2.4l0,0
+		c-1.5,0-2.8-1.2-2.8-2.8c0-1.6,1.2-2.8,2.8-2.8l0,0l0,0H96v-3.5c0-0.4-0.3-0.7-0.7-0.7H46.4c-0.4,0-0.7,0.3-0.7,0.7v3.5h2.4l0,0
+		c1.5,0,2.8,1.2,2.8,2.8c0,1.6-1.2,2.8-2.8,2.8l0,0h-2.4v85.5h2.4l0,0c1.5,0,2.8,1.2,2.8,2.8s-1.2,2.8-2.8,2.8l0,0h-2.4v3.5
+		c0,0.4,0.3,0.7,0.7,0.7h48.9c0.4,0,0.7-0.3,0.7-0.7v-3.5h-2.4V133.3z"/>
+</g>
+</svg>
