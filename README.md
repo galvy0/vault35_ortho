@@ -18,8 +18,8 @@ Now working on plates.
 ## Plate
 Many plate configurations are possible depending on the use of the middle column.  
 Various plate options can be found in plates folder.  
-As an example: A simple switch/encoder middle column plate:
-![Plate](https://github.com/galvy0/vault35_ortho/blob/main/images/vault35_ortho_plate_1u.png)
+This is the most inclusive version, which supports every configuration except 3u stabs on macro column:  
+![Plate](https://github.com/galvy0/vault35_ortho/blob/main/images/vault35_ortho_plate_universal.png)
 
 ## Firmware
 (WIP) https://github.com/galvy0/qmk_firmware/tree/galvy/keyboards/vault35_ortho
